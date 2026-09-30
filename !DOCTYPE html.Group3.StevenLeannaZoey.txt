@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Everyday Cases</title>
+
+<style>
+
+body {
+    margin: 0;
+    font-family: Arial;
+    color: #00296b;
+}
+
+h1, h2, h3 {
+    font-family: Georgia;
+}
+
+header {
+    background-color: #00296b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+}
+
+section {
+    padding: 50px;
+    text-align: center;
+}
+
+#home {
+    background-color: #003f88;
+    color: white;
+}
+
+#home span {
+    color: #ffd500;
+}
+
+#cases {
+    background-color: #f5f5f5;
+}
+
+.case {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.case img {
+    width: 250px;
+    height: 250px;
+}
+
+.text {
+    background-color: #ffd500;
+    padding: 10px;
+}
+
+footer {
+    background-color: #00296b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+<!-- HEADER -->
+
+<header>
+
+<p>GROUP 3</p>
+
+<h1>Everyday Cases</h1>
+
+<nav>
+
+<a href="#home">Home</a>
+
+<a href="#about">About</a>
+
+<a href="#cases">Cases</a>
+
+<a href="#members">Members</a>
+
+</nav>
+
+</header>
+
+
+<!-- HOME -->
+
+<section id="home">
+
+<h1>
+Everyday <span>Cases</span>
+</h1>
+
+<p>
+Protection, Fashion, Durability
+</p>
+
+<img src="https://res.cloudinary.com/upsie/image/upload/f_auto,q_auto/v1635362672/Blog/1200x400-smartphone-Header-blog162-v1_copy.jpg" width="400">
+
+<p>
+
+<a href="#cases" class="custom-link">
+Explore Our Cases
+</a>
+
+<style>
+  .custom-link {
+    color: white;
+  }
+</style>
+
+</p>
+
+</section>
+
+
+<!-- ABOUT -->
+
+<section id="about">
+
+<h2>About Everyday Cases</h2>
+
+<p>
+Everyday Cases is a phone case brand made for
+people who want their phone cases to match
+their personality and style.
+</p>
+
+</section>
+
+
+<!-- CASES -->
+
+<section id="cases">
+
+<h2>Our Cases</h2>
+
+<p>
+Find the style that feels like you.
+</p>
+
+
+<h3>Webbed Up - 299 Pesos</h3>
+
+<img src="https://i.pinimg.com/736x/51/fa/9b/51fa9b8ee51158e11acb891c4b04785b.jpg" width="250">
+
+<p class="text">
+Let everyone know your love for your friendly neighborhood Spider-man with this eye-catching phone case! Whether you're a huge Marvel fan or just looking for something that makes your phone more cool, this case is sure to make it stand out!
+<br>
+<br>
+*Eye-catching Spider-man themed design
+<br>
+*Built to resist scratches and other light damages
+<br>
+*Great gift for Spider-man and marvel fans
+<br>
+*Lightweight and easy to carry around daily
+</p>
+
+
+<h3>Sweet and Soft - 260</h3>
+
+<img src="https://i.pinimg.com/736x/c8/a8/7a/c8a87afe5ceccf9b40ba2705a7d720dc.jpg" width="250">
+
+<p class="text">
+These phone cases are perfect for anyone who loves all things cute, cozy, and adorable! Choose from charming characters, chibi designs, and soft aesthetics to give your phone a fun and lovable look.
+<br>
+<br>
+*Cute and playful designs
+<br>
+*Chibi and adorable characters
+<br>
+*Soft and fun aesthetics
+<br>
+*Perfect for cute-style lovers
+</p>
+
+
+<h3>Faith and Grace - 275</h3>
+
+<img src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.15752-9/826387396_1116526491028317_5533904234248729040_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHKcD-Zl9nUslxIZ_MAUNVdLJt_N03eIDUsm383Td4gNSNpYS-tvum1eWL6H-DPWJRiqLoDDdA9TjqH9pV68HeE&_nc_ohc=o1QnG4wO4w0Q7kNvwEKXhCV&_nc_oc=AdpJdy7V-7I9gF7EgolazcPIJh0ZsGlecBhjNfzHweAdclQgNmvVWy5Iffa2-xNvsDc&_nc_zt=23&_nc_ht=scontent.fmnl17-4.fna&_nc_ss=7b2a8&oh=03_Q7cD6gEBXoODs-Ct2AaJaGqae4WJGHTAupQZrwUCisXj2nocHA&oe=6AE43834" width="250">
+
+<p class="text">
+Are there times when you feel completely down and want something to lift and encourage you instantly throughout the day? Well, with our Christian-themed phone cases, that can happen! Just peek from behind, and boom!
+<br>
+<br>
+*Heart-warming Bible passage design
+<br>
+*Durable and created to have that smooth-feel
+</p>
+
+
+<h3>Minimal - 220 Pesos</h3>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Oz2kvhs1KppfILohxAaQgUkecyN1lW2W6NEinELZ6TBrabp6mGMEulk&s=10" width="250">
+
+<p class="text">
+These phone cases are for those who are into simplicity and minimalism! Choose a variety of colors that makes your phone pop without being too much.
+<br>
+<br>
+*Simple colors
+<br>
+*Clean and minimalist designs
+<br>
+*Affordable
+<br>
+*Timeless
+</p>
+
+
+<h3>Personal Touch - 349 Pesos</h3>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQMOw84FN56nxJSJuj7A28xCqG_VjcpwyapWwikg4oDld9Lg8F77aKVwRh&s=10" width="250">
+
+<p class="text">
+Make your phone case uniquely you by adding memories, favorite photos, and personal designs! These cases are prefect for people who want to carry something that's meaningful and memorable with them wherever they go.
+<br>
+<br>
+*Create your own designs
+<br>
+*Personalize
+<br>
+*Fully customizable
+<br>
+*Thoughtful gift for your loved ones
+</p>
+
+</section>
+
+
+<!-- MEMBERS -->
+
+<section id="members">
+
+<h2>Group Members</h2>
+
+<p>
+Steven Dalaygon
+</p>
+
+<p>
+Leanna Denosta
+</p>
+
+<p>
+Zoey Tecson
+</p>
+
+</section>
+
+
+<!-- FOOTER -->
+
+<footer>
+
+<h2>Everyday Cases</h2>
+
+<p>
+Protection, Fashion, Durability
+</p>
+
+<p>
+Group 3
+</p>
+
+</footer>
+
+
+</body>
+
+</html>
